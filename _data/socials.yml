@@ -3,7 +3,7 @@
 # the socials will be displayed in the order they are defined here
 
 email: pruhnau@lancashire.ac.uk # your email address
-bluesky_url: pruhnau.bsky.social # your bluesky URL
+bluesky_url: https://bsky.app/profile/pruhnau.bsky.social # your bluesky URL
 github_username: philippruhnau # your GitHub user name
 # academia_edu:  your organization and your username Ex. https://organization.academia.edu/UserName
 #  organization: princeton # your organization as appears in the subdomain
