@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /team/
-title: Team
+title: team
 description: Members of the Brain Networks and Stimulation group
 nav: true
 nav_order: 2
