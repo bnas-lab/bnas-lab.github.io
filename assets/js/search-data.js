@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-team",
-          title: "Team",
+          title: "team",
           description: "Members of the Brain Networks and Stimulation group",
           section: "Navigation",
           handler: () => {
